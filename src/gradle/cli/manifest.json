@@ -30,6 +30,16 @@
    ],
    "textFiles": [
       {
+         "sourceRoot": "../../shared",
+         "sourcePath": "text/_github-bug_report_template.md",
+         "targetPath": ".github/ISSUE_TEMPLATE/bug_report.md"
+      },
+      {
+         "sourceRoot": "../../shared",
+         "sourcePath": "text/_github-issue_template_config.yml",
+         "targetPath": ".github/ISSUE_TEMPLATE/config.yml"
+      },
+      {
          "sourcePath": "text/_vscode-settings.json",
          "targetPath": ".vscode/settings.json"
       },
